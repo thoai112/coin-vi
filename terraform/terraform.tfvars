@@ -15,7 +15,7 @@ ecs_task_role      = "coin98-api-task-role"
 ecr_name           = "coin98-api"
 
 repository = {
-  connection_arn = ""
-  id             = ""
-  branch         = ""
+  connection_arn = "arn:aws:codestar-connections:ap-southeast-1:973469345484:connection/e7e49d91-1059-4ebf-ab75-e6d2a3fdd734"
+  id             = "thoai112/coin-vn"
+  branch         = "main"
 }
